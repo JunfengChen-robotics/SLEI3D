@@ -49,3 +49,14 @@ Stay in the loop by visiting our official website:
 - ⭐ Star this repository to be notified when it launches!  
 - 🔗 Bookmark our website for updates.  
 
+---
+
+## 👥 **Maintainers**
+
+- [**Junfeng Chen**](chenjunfeng@stu.pku.edu.cn)  
+- [**Yuxiao Zhu**](yz902@duke.edu)  
+- [**Xintong Zhang**](xz405@duke.edu)  
+- [**Meng Guo**](meng.guo@pku.edu.cn)  
+
+For any inquiries or contributions, feel free to contact us! 🚀
+
