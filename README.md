@@ -32,7 +32,7 @@ The wait is almost over! This repository will soon be populated with:
 ## 🌐 Check Out the Website!  
 
 Stay in the loop by visiting our official website:  
-👉 **[Your Project Website](https://junfengchen-robotics.github.io/SLEI3D/)**  
+👉 **[Our Project Website](https://junfengchen-robotics.github.io/SLEI3D/)**  
 
 ---
 
