@@ -53,10 +53,10 @@ Stay in the loop by visiting our official website:
 
 ## 👥 **Maintainers**
 
-- [**Junfeng Chen**](chenjunfeng@stu.pku.edu.cn)  
-- [**Yuxiao Zhu**](yz902@duke.edu)  
-- [**Xintong Zhang**](xz405@duke.edu)  
-- [**Meng Guo**](meng.guo@pku.edu.cn)  
+- [**Junfeng Chen**](mailto:chenjunfeng@stu.pku.edu.cn)  
+- [**Yuxiao Zhu**](mailto:yz902@duke.edu)  
+- [**Xintong Zhang**](mailto:xz405@duke.edu)  
+- [**Meng Guo**](mailto：meng.guo@pku.edu.cn)  
 
 For any inquiries or contributions, feel free to contact us! 🚀
 
